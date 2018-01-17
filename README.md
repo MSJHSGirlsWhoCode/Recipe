@@ -1,4 +1,4 @@
-# Healthy Recipes
+# Plate It
 
 - This file is type .md, or Markdown.  This allows you to add styles, similar HTML, to your plain text file.  These styles will appear in github, but not in the plain text file.  Here's a cheat sheet of how to style your Markdown file: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
